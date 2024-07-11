@@ -1,0 +1,7 @@
+@startuml Login
+
+skinparam Style strictuml
+skinparam SequenceMessageAlignment center
+A -> B : Hello world
+A <- B : Hi
+@enduml
